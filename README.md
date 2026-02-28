@@ -1,1 +1,0 @@
-# Edge-HelathCare-AI-Prototype
