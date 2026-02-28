@@ -1,0 +1,101 @@
+Iteration,Time,Mode,Latency,Power,CPU_Temp,Output
+1,09:43:17,EMERGENCY,0.010906005627475679,540.0,95.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+2,09:43:17,EMERGENCY,0.013832002878189087,241.0,95.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+3,09:43:17,EMERGENCY,0.010707997716963291,150.0,95.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+4,09:43:17,WELLNESS,24334.976913996798,247.0,87.0,"As a Wellness Coach, I'm here to support your well-being. Your heart rate is within a normal range, and your stress level is low, which are positive signs."
+5,09:43:41,WELLNESS,22902.979693993984,231.0,88.0,"As a Wellness Coach, I'm here to support your well-being. For pain management, consider activities like gentle stretching, mindfulness, or a warm bath. If"
+6,09:44:04,WELLNESS,22950.994364000508,235.0,89.0,Try deep breathing exercises or a short walk to help lower your stress levels.
+7,09:44:27,ESCALATION,23474.63538900047,256.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+8,09:44:51,ESCALATION,23126.018986004055,244.0,89.0,"Blood pressure is a vital sign that can indicate your overall health. It's important to monitor it regularly. If you're concerned about your blood pressure, it's best to consult with a"
+9,09:45:14,WELLNESS,23608.965447005176,267.0,88.0,Consider incorporating mindfulness meditation into your daily routine to help manage stress and promote overall well-being.
+10,09:45:38,WELLNESS,22835.949678999896,231.0,89.0,Try deep breathing exercises to calm your mind and improve concentration.
+11,09:46:00,EMERGENCY,0.05153099482413381,220.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+12,09:46:00,EMERGENCY,0.011834999895654619,241.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+13,09:46:00,EMERGENCY,0.017658996512182057,241.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+14,09:46:00,WELLNESS,22837.911388996872,229.0,88.0,"As a Wellness Coach, I'm here to support your well-being. Your heart rate is within a normal range, and your stress level is low, which are positive signs."
+15,09:46:23,WELLNESS,22949.488019003184,238.0,88.0,"As a Wellness Coach, I'm here to support your well-being. For pain management, consider activities like gentle stretching, mindfulness, or a warm bath. If"
+16,09:46:46,WELLNESS,23458.70901199669,250.0,89.0,Try deep breathing exercises or a short walk to help lower your stress levels.
+17,09:47:10,ESCALATION,23357.937808003044,250.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+18,09:47:33,ESCALATION,22899.821523002174,233.0,88.0,"Blood pressure is a vital sign that can indicate your overall health. It's important to monitor it regularly. If you're concerned about your blood pressure, it's best to consult with a"
+19,09:47:56,WELLNESS,22971.701403002953,233.0,89.0,Consider incorporating mindfulness meditation into your daily routine to help manage stress and promote overall well-being.
+20,09:48:19,WELLNESS,23033.944972004974,239.0,88.0,Try deep breathing exercises to calm your mind and improve concentration.
+21,09:48:43,EMERGENCY,0.04959000216331333,213.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+22,09:48:43,EMERGENCY,0.012631993740797043,241.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+23,09:48:43,EMERGENCY,0.024497996491845697,241.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+24,09:48:43,WELLNESS,24503.95341800322,396.0,88.0,"As a Wellness Coach, I'm here to support your well-being. Your heart rate is within a normal range, and stress levels are low, which are positive signs. However"
+25,09:49:07,WELLNESS,22878.644955999334,233.0,88.0,"As a Wellness Coach, I'm here to support your well-being. For pain management, consider activities like gentle stretching, mindfulness, or a warm bath. If"
+26,09:49:30,WELLNESS,23039.472204996855,242.0,87.0,Try deep breathing exercises or a short walk to help manage your stress levels.
+27,09:49:53,ESCALATION,23054.034693996073,238.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+28,09:50:16,ESCALATION,23053.93611600448,243.0,89.0,"Blood pressure is a vital sign that can indicate your overall health. It's important to monitor it regularly. If you're concerned about your blood pressure, it's best to consult with a"
+29,09:50:40,WELLNESS,23453.191464002884,261.0,90.0,Consider incorporating mindfulness meditation into your daily routine to help manage stress and promote overall well-being.
+30,09:51:03,WELLNESS,23135.63781200355,244.0,89.0,Try deep breathing exercises to calm your mind and improve concentration.
+31,09:51:26,EMERGENCY,0.054577998525928706,245.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+32,09:51:26,EMERGENCY,0.01563100522616878,241.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+33,09:51:26,EMERGENCY,0.021486994228325784,233.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+34,09:51:26,WELLNESS,23329.67358899623,251.0,90.0,"As a Wellness Coach, I'm here to support your well-being. Your heart rate is within a normal range, and stress levels are low, which are positive signs. However"
+35,09:51:50,WELLNESS,23164.096918000723,248.0,88.0,"As a Wellness Coach, I'm here to support your well-being. For pain management, consider activities like gentle stretching, mindfulness, or a warm bath. If"
+36,09:52:13,WELLNESS,23206.222283995885,264.0,89.0,Try deep breathing exercises or a short walk to help manage your stress levels.
+37,09:52:36,ESCALATION,23104.886335997435,244.0,88.0,It's important to consult a healthcare professional for personalized advice.
+38,09:52:59,ESCALATION,23094.56269799557,245.0,89.0,"Blood pressure is a vital sign that can indicate your overall health. It's important to monitor it regularly. If you're concerned about your blood pressure, it's best to consult with a"
+39,09:53:23,WELLNESS,23120.03979900328,245.0,88.0,Consider incorporating mindfulness meditation into your daily routine to further reduce stress and enhance overall well-being.
+40,09:53:46,WELLNESS,23032.84141200129,240.0,88.0,Try deep breathing exercises to calm your mind and improve concentration.
+41,09:54:09,EMERGENCY,0.06979700265219435,230.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+42,09:54:09,EMERGENCY,0.01618100213818252,250.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+43,09:54:09,EMERGENCY,0.023184999008663,332.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+44,09:54:09,WELLNESS,23605.238212003314,270.0,90.0,"As a Wellness Coach, I'm here to support your well-being. Your heart rate is normal, and stress levels are low, which are positive signs. However, I'"
+45,09:54:33,WELLNESS,24041.479211999103,284.0,90.0,"As a Wellness Coach, I'm here to support your well-being. For pain management, consider activities like gentle stretching, mindfulness, or a warm bath. If"
+46,09:54:57,WELLNESS,23113.615034999384,247.0,87.0,Try deep breathing exercises or a short walk to help lower your stress levels.
+47,09:55:20,ESCALATION,22959.303485004057,236.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+48,09:55:43,ESCALATION,22985.42355200334,240.0,88.0,"Blood pressure is a vital sign that can indicate your overall health. It's important to monitor it regularly. If you're concerned about your blood pressure, it's best to consult with a"
+49,09:56:06,WELLNESS,22916.213049997168,234.0,89.0,Consider incorporating mindfulness meditation into your daily routine to help manage stress and promote overall well-being.
+50,09:56:29,WELLNESS,22878.242165999836,233.0,87.0,Try deep breathing exercises to calm your mind and improve concentration.
+51,09:56:52,EMERGENCY,0.050181995902676135,218.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+52,09:56:52,EMERGENCY,0.013195996871218085,241.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+53,09:56:52,EMERGENCY,0.022952997824177146,350.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+54,09:56:52,WELLNESS,23503.318472998217,261.0,89.0,"As a Wellness Coach, I'm here to support your well-being. Your heart rate is within a normal range, and your stress level is low, which are positive signs."
+55,09:57:16,WELLNESS,23747.645499999635,268.0,87.0,"As a Wellness Coach, I'm here to support your well-being. For pain management, consider activities like gentle stretching, mindfulness, or a warm bath. If"
+56,09:57:40,WELLNESS,23308.389969999553,247.0,89.0,Try deep breathing exercises or a short walk to help lower your stress levels.
+57,09:58:03,ESCALATION,23195.793391001644,245.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+58,09:58:26,ESCALATION,23829.577916003473,284.0,89.0,"Blood pressure is a vital sign that can indicate your overall health. It's important to monitor it regularly. If you're concerned about your blood pressure, it's best to consult with a"
+59,09:58:50,WELLNESS,23518.783532999805,259.0,90.0,Consider incorporating mindfulness meditation into your daily routine to help manage stress and promote overall well-being.
+60,09:59:14,WELLNESS,23119.338580996555,248.0,89.0,Try deep breathing exercises to calm your mind and improve concentration.
+61,09:59:37,EMERGENCY,0.050618997192941606,218.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+62,09:59:37,EMERGENCY,0.01544800034025684,241.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+63,09:59:37,EMERGENCY,0.02152399974875152,250.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+64,09:59:37,WELLNESS,22898.984486004338,236.0,89.0,"As a Wellness Coach, I'm here to support your well-being. Your heart rate is within a normal range, and your stress level is low, which are positive signs."
+65,10:00:00,WELLNESS,22845.657003999804,232.0,88.0,"As a Wellness Coach, I'm here to support your well-being. For pain management, consider activities like gentle stretching, mindfulness, or a warm bath. If"
+66,10:00:23,WELLNESS,22953.77399699646,234.0,88.0,Try deep breathing exercises or a short walk to help lower your stress levels.
+67,10:00:46,ESCALATION,23298.655131999112,248.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+68,10:01:09,ESCALATION,23317.035189000308,250.0,89.0,"Blood pressure is a vital sign that can indicate your overall health. It's important to monitor it regularly. If you're concerned about your blood pressure, it's best to consult with a"
+69,10:01:33,WELLNESS,23551.6061849994,271.0,89.0,"Engage in regular physical activity, like a brisk walk or yoga, to maintain a healthy heart rate and manage stress effectively."
+70,10:01:56,WELLNESS,23338.529180000478,255.0,89.0,Try deep breathing exercises to calm your mind and improve concentration.
+71,10:02:20,EMERGENCY,0.0561239939997904,250.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+72,10:02:20,EMERGENCY,0.020596999092958868,150.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+73,10:02:20,EMERGENCY,0.023176995455287397,332.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+74,10:02:20,WELLNESS,23253.30079899868,253.0,89.0,"As a Wellness Coach, I'm here to support your well-being. Your heart rate is within a normal range, and your stress level is low, which are positive signs."
+75,10:02:43,WELLNESS,23057.52400500205,244.0,89.0,"As a Wellness Coach, I'm here to support your well-being. For pain management, consider activities like gentle stretching, mindfulness, or a warm bath. If"
+76,10:03:06,WELLNESS,23061.847053999372,245.0,89.0,Try deep breathing exercises or a short walk to help lower your stress levels.
+77,10:03:29,ESCALATION,23025.06029199867,242.0,88.0,It's important to consult a healthcare professional for personalized advice.
+78,10:03:53,ESCALATION,23086.714012999437,245.0,89.0,"Blood pressure is a vital sign that can indicate your overall health. It's important to monitor it regularly. If you're concerned about your blood pressure, it's best to consult with a"
+79,10:04:16,WELLNESS,24285.853729998053,306.0,89.0,Consider incorporating mindfulness meditation into your daily routine to help manage stress and promote overall well-being.
+80,10:04:40,WELLNESS,24290.13276000478,317.0,88.0,Try deep breathing exercises to calm your mind and improve concentration.
+81,10:05:04,EMERGENCY,0.061591999838128686,242.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+82,10:05:04,EMERGENCY,0.02177300484618172,150.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+83,10:05:05,EMERGENCY,0.019320999854244292,400.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+84,10:05:05,WELLNESS,22999.184112995863,242.0,88.0,"As a Wellness Coach, I'm here to support your well-being. Your heart rate is within a normal range, and stress levels are low, which are positive signs. However"
+85,10:05:28,WELLNESS,22994.53397400066,240.0,89.0,"As a Wellness Coach, I'm here to support your well-being. For pain management, consider activities like gentle stretching, mindfulness, or a warm bath. If"
+86,10:05:51,WELLNESS,23291.65492299944,251.0,88.0,Try deep breathing exercises or a short walk to help lower your stress levels.
+87,10:06:14,ESCALATION,23661.0809959966,282.0,88.0,It's important to consult a healthcare professional for personalized advice.
+88,10:06:38,ESCALATION,23414.929058999405,255.0,90.0,"Blood pressure is a vital sign that can indicate your overall health. It's important to monitor it regularly. If you're concerned about your blood pressure, it's best to consult with a"
+89,10:07:01,WELLNESS,23316.168921002827,257.0,89.0,Consider incorporating mindfulness meditation into your daily routine to further reduce stress and enhance overall well-being.
+90,10:07:25,WELLNESS,24465.39467000548,317.0,89.0,Try deep breathing exercises to calm your mind and improve concentration.
+91,10:07:49,EMERGENCY,0.07378600275842473,278.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+92,10:07:49,EMERGENCY,0.01733899989631027,227.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+93,10:07:49,EMERGENCY,0.022684995201416314,332.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+94,10:07:49,WELLNESS,23891.06319300481,299.0,88.0,"As a Wellness Coach, I'm here to support your well-being. Your heart rate is within a normal range, and stress levels are low, which are positive signs. However"
+95,10:08:13,WELLNESS,23000.98799099942,246.0,87.0,"As a Wellness Coach, I'm here to support your well-being. For pain management, consider activities like gentle stretching, mindfulness, or a warm bath. If"
+96,10:08:36,WELLNESS,23243.572927996865,252.0,90.0,Try deep breathing exercises or a short walk to help lower your stress levels.
+97,10:09:00,ESCALATION,23407.171899998502,263.0,90.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+98,10:09:23,ESCALATION,23735.031242998957,288.0,87.0,"Blood pressure is a vital sign that can indicate your overall health. It's important to monitor it regularly. If you're concerned about your blood pressure, it's best to consult with a"
+99,10:09:47,WELLNESS,23354.47216000466,266.0,88.0,"Engage in regular physical activity, like a brisk walk or yoga, to maintain a healthy heart rate and manage stress effectively."
+100,10:10:10,WELLNESS,23423.2061540024,260.0,89.0,Try deep breathing exercises to calm your mind and improve concentration.

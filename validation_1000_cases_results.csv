@@ -1,0 +1,1001 @@
+Iteration,Time,Mode,Latency,Power,CPU_Temp,Output
+1,13:21:29,EMERGENCY,0.06231499997966239,394.0,85.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+2,13:21:29,EMERGENCY,0.04036000001406137,244.0,85.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+3,13:21:29,EMERGENCY,0.04651599999760947,245.0,85.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+4,13:21:29,ESCALATION,2002.7118710000025,217.0,86.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+5,13:21:31,ESCALATION,1609.564890999991,217.0,86.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+6,13:21:32,WELLNESS,1582.361633000005,217.0,86.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+7,13:21:34,ESCALATION,1608.461415000022,221.0,87.0,It'ieves to consult a healthcare professional for personalized advice.
+8,13:21:36,WELLNESS,1629.5659410000098,232.0,86.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+9,13:21:37,WELLNESS,1569.0879859999995,217.0,85.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+10,13:21:39,WELLNESS,1692.9399770000089,229.0,87.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+11,13:21:41,EMERGENCY,0.03401000000735621,358.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+12,13:21:41,EMERGENCY,0.010575999993989171,150.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+13,13:21:41,EMERGENCY,0.019495000003644236,250.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+14,13:21:41,ESCALATION,1567.5016480000181,224.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+15,13:21:42,ESCALATION,1587.267770000011,220.0,86.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+16,13:21:44,WELLNESS,1699.3003930000157,230.0,85.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+17,13:21:46,ESCALATION,1619.7024470000088,220.0,86.0,It'ieves to consult a doctor for a thorough check-up.
+18,13:21:47,ESCALATION,1730.0194350000027,233.0,87.0,"If your blood pressure is high, it's important to consult a doctor."
+19,13:21:49,WELLNESS,1669.8745060000135,235.0,89.0,Practice mindfulness meditation for 10 minutes daily to enhance your mental well-being and reduce stress.
+20,13:21:51,WELLNESS,1718.4405819999995,220.0,87.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+21,13:21:53,EMERGENCY,0.04743599998846548,230.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+22,13:21:53,EMERGENCY,0.01913899998839952,150.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+23,13:21:53,EMERGENCY,0.012585000007447888,233.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+24,13:21:53,ESCALATION,1731.2247979999995,221.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+25,13:21:54,ESCALATION,1757.9502980000257,227.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+26,13:21:56,WELLNESS,1676.2647650000133,220.0,86.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+27,13:21:58,ESCALATION,1694.3729980000057,221.0,87.0,It'ieves to consult a doctor for a thorough check-up.
+28,13:21:59,WELLNESS,1728.1094649999886,227.0,88.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+29,13:22:01,WELLNESS,1728.946067999999,221.0,87.0,Practice mindfulness meditation for 10 minutes daily to enhance your mental well-being and reduce stress.
+30,13:22:03,WELLNESS,1691.6872719999958,221.0,87.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+31,13:22:05,EMERGENCY,0.04177299999241768,227.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+32,13:22:05,EMERGENCY,0.014551999981904373,317.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+33,13:22:05,EMERGENCY,0.010535999990679557,150.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+34,13:22:05,ESCALATION,1672.0729000000176,223.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+35,13:22:06,ESCALATION,1669.995436999983,221.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+36,13:22:08,WELLNESS,1834.7012989999882,251.0,85.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+37,13:22:10,ESCALATION,1770.2536360000067,236.0,89.0,It'ieves to consult a healthcare professional for personalized advice.
+38,13:22:12,WELLNESS,1905.3740100000027,290.0,86.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+39,13:22:14,WELLNESS,1600.016715999999,232.0,89.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+40,13:22:15,WELLNESS,1650.876027999999,221.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+41,13:22:17,EMERGENCY,0.03809599999726743,260.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+42,13:22:17,EMERGENCY,0.01502200001368692,150.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+43,13:22:17,EMERGENCY,0.012752999992926561,150.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+44,13:22:17,ESCALATION,1719.084591000012,225.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+45,13:22:19,ESCALATION,1695.587598000003,223.0,87.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+46,13:22:20,WELLNESS,1705.1630349999982,225.0,88.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+47,13:22:22,ESCALATION,1696.4355490000003,220.0,86.0,It'ieves to consult a healthcare professional for personalized advice.
+48,13:22:24,ESCALATION,1827.4174889999983,227.0,87.0,"If your blood pressure is high, it's important to consult a doctor."
+49,13:22:26,WELLNESS,1761.3149249999935,228.0,87.0,Practice mindfulness meditation for 10 minutes daily to enhance your mental well-being and reduce stress.
+50,13:22:27,WELLNESS,1645.1574209999933,221.0,90.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+51,13:22:29,EMERGENCY,0.03640200000631921,239.0,90.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+52,13:22:29,EMERGENCY,0.015700999995260645,233.0,90.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+53,13:22:29,EMERGENCY,0.019371999997019884,150.0,90.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+54,13:22:29,ESCALATION,1751.2384319999796,233.0,87.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+55,13:22:31,ESCALATION,1798.9593460000037,228.0,86.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+56,13:22:33,WELLNESS,1827.811204999989,231.0,87.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+57,13:22:35,ESCALATION,1696.5922869999872,222.0,88.0,It'ieves to consult a doctor for a thorough check-up.
+58,13:22:36,ESCALATION,1964.901521999991,259.0,87.0,"If your blood pressure is high, it's important to consult a doctor."
+59,13:22:38,WELLNESS,1864.0321869999923,249.0,88.0,Practice mindfulness meditation for 10 minutes daily to enhance your mental well-being and reduce stress.
+60,13:22:40,WELLNESS,1857.2809469999925,250.0,87.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+61,13:22:42,EMERGENCY,0.045894000010093805,238.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+62,13:22:42,EMERGENCY,0.017192000001386987,304.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+63,13:22:42,EMERGENCY,0.012625000010757503,150.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+64,13:22:42,ESCALATION,1732.3784700000147,238.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+65,13:22:44,ESCALATION,1727.9322100000059,223.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+66,13:22:46,WELLNESS,1774.8125880000032,223.0,88.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+67,13:22:47,ESCALATION,1728.5515580000208,216.0,88.0,It'ieves to consult a doctor for a thorough check-up.
+68,13:22:49,WELLNESS,2052.254212000008,305.0,89.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+69,13:22:51,WELLNESS,1840.3258649999827,223.0,89.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+70,13:22:53,WELLNESS,1789.5691120000095,219.0,86.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+71,13:22:55,EMERGENCY,0.03655100002220024,237.0,86.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+72,13:22:55,EMERGENCY,0.017571000000771164,317.0,86.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+73,13:22:55,EMERGENCY,0.01476099998853897,150.0,86.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+74,13:22:55,ESCALATION,1800.9433269999988,220.0,87.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+75,13:22:57,ESCALATION,1765.8522220000066,221.0,87.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+76,13:22:59,WELLNESS,1803.3584340000175,241.0,87.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+77,13:23:00,ESCALATION,1715.846216000017,227.0,88.0,It'ieves to consult a doctor for a thorough check-up.
+78,13:23:02,WELLNESS,1701.5106270000047,220.0,88.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+79,13:23:04,WELLNESS,1749.0419389999943,226.0,87.0,Practice mindfulness meditation for 10 minutes daily to enhance your mental well-being and reduce stress.
+80,13:23:06,WELLNESS,2450.6979539999634,344.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+81,13:23:08,EMERGENCY,0.0761009999905582,400.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+82,13:23:08,EMERGENCY,0.025343999993765465,356.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+83,13:23:08,EMERGENCY,0.02930300001935393,439.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+84,13:23:08,ESCALATION,2646.392161000051,443.0,90.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+85,13:23:11,ESCALATION,1733.5212009999736,259.0,93.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+86,13:23:13,WELLNESS,2392.0031980000545,308.0,88.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+87,13:23:15,ESCALATION,2658.5460009999906,371.0,88.0,It'ieves to consult a doctor for a thorough check-up.
+88,13:23:18,WELLNESS,1901.5609470000072,236.0,90.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+89,13:23:20,WELLNESS,2076.076666000006,248.0,88.0,Practice mindfulness meditation for 10 minutes daily to enhance your mental well-being and reduce stress.
+90,13:23:22,WELLNESS,1927.4553070000024,230.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+91,13:23:24,EMERGENCY,0.05579499998020765,231.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+92,13:23:24,EMERGENCY,0.014371000020219071,150.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+93,13:23:24,EMERGENCY,0.01520500001106484,241.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+94,13:23:24,ESCALATION,1974.0211799999656,254.0,87.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+95,13:23:26,ESCALATION,1848.333380999975,224.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+96,13:23:28,WELLNESS,1798.4277350000184,220.0,88.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+97,13:23:29,ESCALATION,1908.5773720000248,226.0,88.0,It'ieves to consult a doctor for a thorough check-up.
+98,13:23:31,WELLNESS,1847.9204669999945,225.0,88.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+99,13:23:33,WELLNESS,1847.893398999986,226.0,87.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+100,13:23:35,WELLNESS,1836.1709559999895,224.0,87.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+101,13:23:37,EMERGENCY,0.04725700000562938,226.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+102,13:23:37,EMERGENCY,0.012937999997575389,233.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+103,13:23:37,EMERGENCY,0.012712000000192347,241.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+104,13:23:37,ESCALATION,1810.5754269999466,224.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+105,13:23:39,ESCALATION,1881.1935159999962,243.0,90.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+106,13:23:41,WELLNESS,1930.2783500000373,223.0,87.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+107,13:23:43,ESCALATION,1919.2322849999641,227.0,88.0,It'ieves to consult a healthcare professional for personalized advice.
+108,13:23:45,ESCALATION,1887.0693380000034,227.0,88.0,"If your blood pressure is high, it's important to consult a doctor."
+109,13:23:46,WELLNESS,1799.3193379999752,228.0,91.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+110,13:23:48,WELLNESS,1906.9458519999785,226.0,87.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+111,13:23:50,EMERGENCY,0.04657300002008924,225.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+112,13:23:50,EMERGENCY,0.020432000042092113,317.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+113,13:23:50,EMERGENCY,0.012991999994937942,233.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+114,13:23:50,ESCALATION,1903.0154729999822,228.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+115,13:23:52,ESCALATION,1958.8928039999587,224.0,87.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+116,13:23:54,WELLNESS,1993.323380999982,235.0,87.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+117,13:23:56,ESCALATION,1863.9522479999755,234.0,88.0,It'ieves to consult a doctor for a thorough check-up.
+118,13:23:58,ESCALATION,1851.1146890000418,228.0,87.0,"If your blood pressure is high, it's important to consult a doctor."
+119,13:24:00,WELLNESS,1843.4870830000136,230.0,88.0,Practice mindfulness meditation for 10 minutes daily to enhance your mental well-being and reduce stress.
+120,13:24:02,WELLNESS,1883.8183450000088,232.0,90.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+121,13:24:04,EMERGENCY,0.07118000002037661,270.0,90.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+122,13:24:04,EMERGENCY,0.016097000013814977,304.0,90.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+123,13:24:04,EMERGENCY,0.01928599999700964,250.0,90.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+124,13:24:04,ESCALATION,1916.9626230000176,233.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+125,13:24:06,ESCALATION,1828.5762989999625,224.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+126,13:24:07,WELLNESS,2027.9306759999827,237.0,89.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+127,13:24:10,ESCALATION,2041.672876000007,234.0,87.0,It'ieves to consult a doctor for a thorough check-up.
+128,13:24:12,WELLNESS,2018.7334649999684,236.0,87.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+129,13:24:14,WELLNESS,1934.7127249999971,232.0,87.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+130,13:24:16,WELLNESS,2026.824443999999,244.0,91.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+131,13:24:18,EMERGENCY,0.04774799998585877,226.0,91.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+132,13:24:18,EMERGENCY,0.01306199999362434,150.0,91.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+133,13:24:18,EMERGENCY,0.011109000013220793,150.0,91.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+134,13:24:18,ESCALATION,2017.9962889999956,242.0,90.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+135,13:24:20,ESCALATION,1853.7345159999745,227.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+136,13:24:22,WELLNESS,1892.3405939999611,223.0,87.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+137,13:24:23,ESCALATION,2023.4977669999807,242.0,87.0,It'ieves to consult a healthcare professional for personalized advice.
+138,13:24:26,WELLNESS,2016.2456339999721,250.0,88.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+139,13:24:28,WELLNESS,1839.2117060000146,258.0,88.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+140,13:24:29,WELLNESS,1758.9907500000095,223.0,87.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+141,13:24:31,EMERGENCY,0.044684000044981076,227.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+142,13:24:31,EMERGENCY,0.019542000018191175,332.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+143,13:24:31,EMERGENCY,0.012967000031949283,150.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+144,13:24:31,ESCALATION,1828.4768629999917,225.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+145,13:24:33,ESCALATION,1839.9878289999947,224.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+146,13:24:35,WELLNESS,2159.5158760000004,310.0,88.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+147,13:24:37,ESCALATION,1789.6038389999944,224.0,88.0,It'ieves to consult a doctor for a thorough check-up.
+148,13:24:39,WELLNESS,2001.8643319999683,235.0,89.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+149,13:24:41,WELLNESS,1871.7670759999692,234.0,90.0,Practice mindfulness meditation for 10 minutes daily to enhance your mental well-being and reduce stress.
+150,13:24:43,WELLNESS,2121.6024820000143,258.0,87.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+151,13:24:45,EMERGENCY,0.053735999983928195,261.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+152,13:24:45,EMERGENCY,0.027961999990111508,150.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+153,13:24:45,EMERGENCY,0.017435000017940183,221.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+154,13:24:45,ESCALATION,1830.0319119999813,223.0,87.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+155,13:24:47,ESCALATION,1796.9918660000417,224.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+156,13:24:49,WELLNESS,1853.5009049999758,234.0,87.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+157,13:24:51,ESCALATION,1950.0268059999826,255.0,88.0,It'ieves to consult a healthcare professional for personalized advice.
+158,13:24:53,WELLNESS,1834.3555970000125,235.0,91.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+159,13:24:54,WELLNESS,1902.0276979999835,227.0,89.0,Practice mindfulness meditation for 10 minutes daily to enhance your mental well-being and reduce stress.
+160,13:24:56,WELLNESS,1910.5471040000452,225.0,87.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+161,13:24:58,EMERGENCY,0.04675700000689176,226.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+162,13:24:58,EMERGENCY,0.016872000003331777,233.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+163,13:24:58,EMERGENCY,0.012443000002804183,227.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+164,13:24:58,ESCALATION,1936.0194509999928,230.0,90.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+165,13:25:00,ESCALATION,1929.101783999954,234.0,87.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+166,13:25:02,WELLNESS,1906.1968869999646,233.0,88.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+167,13:25:04,ESCALATION,1752.3777369999607,221.0,88.0,It'ieves to consult a doctor for a thorough check-up.
+168,13:25:06,WELLNESS,1900.2380379999977,231.0,88.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+169,13:25:08,WELLNESS,1902.3497289999796,230.0,88.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+170,13:25:10,WELLNESS,1889.5942379999724,223.0,87.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+171,13:25:12,EMERGENCY,0.04850799996347632,236.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+172,13:25:12,EMERGENCY,0.014496999995117221,150.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+173,13:25:12,EMERGENCY,0.014217000000371627,241.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+174,13:25:12,ESCALATION,1897.9770930000086,226.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+175,13:25:14,ESCALATION,1857.8931549999993,225.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+176,13:25:15,WELLNESS,1822.004545000027,223.0,87.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+177,13:25:17,ESCALATION,1904.3773829999964,238.0,88.0,It'ieves to consult a doctor for a thorough check-up.
+178,13:25:19,WELLNESS,2321.2809759999686,334.0,90.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+179,13:25:22,WELLNESS,2483.489184000007,381.0,89.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+180,13:25:24,WELLNESS,1988.8417359999835,280.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+181,13:25:26,EMERGENCY,0.06590199996026058,249.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+182,13:25:26,EMERGENCY,0.02333100002260835,400.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+183,13:25:26,EMERGENCY,0.02625900003749848,304.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+184,13:25:26,ESCALATION,2158.1434270000273,265.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+185,13:25:28,ESCALATION,1905.758273999993,233.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+186,13:25:30,WELLNESS,1992.4060539999573,245.0,88.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+187,13:25:32,ESCALATION,1954.2429619999666,234.0,89.0,It'ieves to consult a doctor for a thorough check-up.
+188,13:25:34,WELLNESS,1887.9098209999938,228.0,88.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+189,13:25:36,WELLNESS,1970.3538079999703,248.0,88.0,Practice mindfulness meditation for 10 minutes daily to enhance your mental well-being and reduce stress.
+190,13:25:38,WELLNESS,1977.9088220000176,244.0,89.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+191,13:25:40,EMERGENCY,0.048049999975319224,225.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+192,13:25:40,EMERGENCY,0.01595800000586678,233.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+193,13:25:40,EMERGENCY,0.020822000010412012,423.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+194,13:25:40,ESCALATION,1992.2098600000027,234.0,87.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+195,13:25:42,ESCALATION,2093.334554999956,282.0,87.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+196,13:25:44,WELLNESS,1983.2872790000238,241.0,88.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+197,13:25:46,ESCALATION,1935.71900500001,222.0,87.0,It'ieves to consult a doctor for a thorough check-up.
+198,13:25:48,WELLNESS,1945.1151480000135,228.0,87.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+199,13:25:50,WELLNESS,2026.502392999987,248.0,87.0,Practice mindfulness meditation for 10 minutes daily to enhance your mental well-being and reduce stress.
+200,13:25:52,WELLNESS,1813.964392999992,239.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+201,13:25:54,EMERGENCY,0.044309000031717005,227.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+202,13:25:54,EMERGENCY,0.015275999999175838,150.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+203,13:25:54,EMERGENCY,0.011051000001316424,233.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+204,13:25:54,ESCALATION,1931.8675530000178,241.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+205,13:25:56,ESCALATION,1833.1522809999683,227.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+206,13:25:58,WELLNESS,2067.209622000007,247.0,88.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+207,13:26:00,ESCALATION,1870.2250369999547,231.0,88.0,It'ieves to consult a healthcare professional for personalized advice.
+208,13:26:02,WELLNESS,1799.477166000031,220.0,88.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+209,13:26:04,WELLNESS,1862.6049820000503,222.0,87.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+210,13:26:06,WELLNESS,1972.7011219999895,242.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+211,13:26:08,EMERGENCY,0.04667100000688151,226.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+212,13:26:08,EMERGENCY,0.013186999979097891,150.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+213,13:26:08,EMERGENCY,0.012237000021286804,150.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+214,13:26:08,ESCALATION,1866.0964370000102,234.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+215,13:26:10,ESCALATION,1895.9578989999955,231.0,87.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+216,13:26:11,WELLNESS,1851.8406730000265,230.0,88.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+217,13:26:13,ESCALATION,1895.2830409999706,238.0,88.0,It'ieves to consult a doctor for a thorough check-up.
+218,13:26:15,ESCALATION,1865.2064099999848,230.0,88.0,"If your blood pressure is high, it's important to consult a doctor."
+219,13:26:17,WELLNESS,1880.4414360000123,226.0,88.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+220,13:26:19,WELLNESS,1856.5141950000452,223.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+221,13:26:21,EMERGENCY,0.04802199998721335,237.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+222,13:26:21,EMERGENCY,0.013319000004230475,150.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+223,13:26:21,EMERGENCY,0.01292600001079336,150.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+224,13:26:21,ESCALATION,1836.3134049999985,222.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+225,13:26:23,ESCALATION,1901.3372260000097,221.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+226,13:26:25,WELLNESS,1932.0667210000124,226.0,87.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+227,13:26:27,ESCALATION,1889.609199000006,231.0,88.0,It'ieves to consult a healthcare professional for personalized advice.
+228,13:26:29,WELLNESS,1770.9121439999649,224.0,88.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+229,13:26:30,WELLNESS,1787.4879099999816,225.0,90.0,Practice mindfulness meditation for 10 minutes daily to enhance your mental well-being and reduce stress.
+230,13:26:32,WELLNESS,1823.4959320000144,220.0,87.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+231,13:26:34,EMERGENCY,0.04708700004130151,230.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+232,13:26:34,EMERGENCY,0.014587999999093881,150.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+233,13:26:34,EMERGENCY,0.012463999951251026,150.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+234,13:26:34,ESCALATION,1859.644817000003,222.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+235,13:26:36,ESCALATION,1843.8059900000212,225.0,86.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+236,13:26:38,WELLNESS,1899.915172999954,234.0,88.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+237,13:26:40,ESCALATION,1864.9672520000422,229.0,87.0,It'ieves to consult a doctor for a thorough check-up.
+238,13:26:42,WELLNESS,1950.793257999976,244.0,89.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+239,13:26:44,WELLNESS,1941.018062000012,234.0,87.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+240,13:26:45,WELLNESS,1942.686915999957,227.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+241,13:26:48,EMERGENCY,0.048594000020329986,225.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+242,13:26:48,EMERGENCY,0.014343999964694376,227.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+243,13:26:48,EMERGENCY,0.011260000007951021,150.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+244,13:26:48,ESCALATION,1923.6487709999892,224.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+245,13:26:49,ESCALATION,1981.9687419999923,237.0,87.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+246,13:26:51,WELLNESS,1861.6012969999929,225.0,87.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+247,13:26:53,ESCALATION,1892.732892999959,223.0,88.0,It'ieves to consult a healthcare professional for personalized advice.
+248,13:26:55,WELLNESS,1891.7136979999896,222.0,86.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+249,13:26:57,WELLNESS,1865.3149129999633,224.0,86.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+250,13:26:59,WELLNESS,1843.8463850000062,229.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+251,13:27:01,EMERGENCY,0.04665500000555767,232.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+252,13:27:01,EMERGENCY,0.01575199996750598,241.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+253,13:27:01,EMERGENCY,0.014049000014892954,150.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+254,13:27:01,ESCALATION,1846.078045000013,222.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+255,13:27:03,ESCALATION,1862.1124119999877,221.0,87.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+256,13:27:05,WELLNESS,1889.7907599999826,222.0,89.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+257,13:27:07,ESCALATION,1861.3160289999655,221.0,89.0,It'ieves to consult a doctor for a thorough check-up.
+258,13:27:08,WELLNESS,1907.4741569999674,239.0,87.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+259,13:27:10,WELLNESS,1816.515681999988,222.0,87.0,Practice mindfulness meditation for 10 minutes daily to enhance your mental well-being and reduce stress.
+260,13:27:12,WELLNESS,1856.2002250000091,221.0,87.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+261,13:27:14,EMERGENCY,0.048423999999158696,225.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+262,13:27:14,EMERGENCY,0.016477000031045463,227.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+263,13:27:14,EMERGENCY,0.013249999994968675,150.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+264,13:27:14,ESCALATION,1910.9334030000014,229.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+265,13:27:16,ESCALATION,1863.6590390000265,222.0,87.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+266,13:27:18,WELLNESS,1890.550406999978,231.0,87.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+267,13:27:20,ESCALATION,1863.1511460000638,221.0,88.0,It'ieves to consult a healthcare professional for personalized advice.
+268,13:27:22,WELLNESS,1827.3390370000016,220.0,90.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+269,13:27:24,WELLNESS,1808.122997000055,223.0,88.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+270,13:27:25,WELLNESS,1802.9099609999548,223.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+271,13:27:27,EMERGENCY,0.046109999971122306,227.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+272,13:27:27,EMERGENCY,0.016170999970199773,241.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+273,13:27:27,EMERGENCY,0.013830999932906707,150.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+274,13:27:27,ESCALATION,1808.163594000007,225.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+275,13:27:29,ESCALATION,1907.3656690000007,233.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+276,13:27:31,WELLNESS,1983.6114470000439,234.0,89.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+277,13:27:33,ESCALATION,1856.9323479999866,223.0,87.0,It'ieves to consult a doctor for a thorough check-up.
+278,13:27:35,WELLNESS,1910.5458860000226,222.0,87.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+279,13:27:37,WELLNESS,1900.161262000097,229.0,87.0,Practice mindfulness meditation for 10 minutes daily to enhance your mental well-being and reduce stress.
+280,13:27:39,WELLNESS,1848.7641880000183,229.0,87.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+281,13:27:41,EMERGENCY,0.055378999945787655,256.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+282,13:27:41,EMERGENCY,0.020099000039408565,227.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+283,13:27:41,EMERGENCY,0.013959999932922074,150.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+284,13:27:41,ESCALATION,1846.4182830000482,240.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+285,13:27:43,ESCALATION,1790.7385199999908,221.0,87.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+286,13:27:44,WELLNESS,1880.9819370000014,224.0,90.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+287,13:27:46,ESCALATION,1962.650867000093,240.0,88.0,It'ieves to consult a doctor for a thorough check-up.
+288,13:27:48,WELLNESS,1899.8036440000305,253.0,88.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+289,13:27:50,WELLNESS,1930.806921999988,233.0,88.0,Practice mindfulness meditation for 10 minutes daily to enhance your mental well-being and reduce stress.
+290,13:27:52,WELLNESS,2165.767689000063,305.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+291,13:27:54,EMERGENCY,0.05087900001399248,265.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+292,13:27:54,EMERGENCY,0.019609999981184956,304.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+293,13:27:54,EMERGENCY,0.019361999989087053,233.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+294,13:27:54,ESCALATION,1879.1704220000156,232.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+295,13:27:56,ESCALATION,1823.3065819999865,223.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+296,13:27:58,WELLNESS,2005.1997780000193,231.0,88.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+297,13:28:00,ESCALATION,2162.0023909999873,281.0,89.0,It'ieves to consult a doctor for a thorough check-up.
+298,13:28:02,WELLNESS,2000.1136420000876,243.0,89.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+299,13:28:04,WELLNESS,1914.085325999963,230.0,90.0,Practice mindfulness meditation for 10 minutes daily to enhance your mental well-being and reduce stress.
+300,13:28:06,WELLNESS,1954.3774200000144,227.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+301,13:28:08,EMERGENCY,0.05228399993484345,249.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+302,13:28:08,EMERGENCY,0.022983999997450155,317.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+303,13:28:08,EMERGENCY,0.015893999943727977,150.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+304,13:28:08,ESCALATION,1972.3698110000214,226.0,87.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+305,13:28:10,ESCALATION,1924.605401000008,227.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+306,13:28:12,WELLNESS,1950.268966000067,226.0,87.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+307,13:28:14,ESCALATION,1915.5383240000674,228.0,88.0,It'ieves to consult a healthcare professional for personalized advice.
+308,13:28:16,WELLNESS,1844.9742779999951,226.0,88.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+309,13:28:18,WELLNESS,1878.4462400000166,231.0,88.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+310,13:28:20,WELLNESS,1848.39117599995,227.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+311,13:28:22,EMERGENCY,0.0469159999738622,251.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+312,13:28:22,EMERGENCY,0.019281000049886643,233.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+313,13:28:22,EMERGENCY,0.01861000009739655,250.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+314,13:28:22,ESCALATION,1852.6439379999147,227.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+315,13:28:24,ESCALATION,1895.9492069999442,227.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+316,13:28:26,WELLNESS,1906.9335450000153,226.0,88.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+317,13:28:27,ESCALATION,1908.7567029999946,226.0,89.0,It'ieves to consult a doctor for a thorough check-up.
+318,13:28:29,WELLNESS,1897.7948449999076,228.0,89.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+319,13:28:31,WELLNESS,1893.0768220000118,225.0,88.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+320,13:28:33,WELLNESS,1918.77764700007,229.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+321,13:28:35,EMERGENCY,0.04867299992383778,246.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+322,13:28:35,EMERGENCY,0.01959100006843073,317.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+323,13:28:35,EMERGENCY,0.018107999949279474,150.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+324,13:28:35,ESCALATION,1875.0400240001,230.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+325,13:28:37,ESCALATION,1896.296283999959,226.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+326,13:28:39,WELLNESS,1920.6336429999737,226.0,89.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+327,13:28:41,ESCALATION,1904.3731220000382,227.0,90.0,It'ieves to consult a doctor for a thorough check-up.
+328,13:28:43,WELLNESS,1990.1440180000236,226.0,87.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+329,13:28:45,WELLNESS,2012.0194890000676,227.0,86.0,Practice mindfulness meditation for 10 minutes daily to enhance your mental well-being and reduce stress.
+330,13:28:47,WELLNESS,1903.218769000091,227.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+331,13:28:49,EMERGENCY,0.05040100006681314,240.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+332,13:28:49,EMERGENCY,0.014208000038706814,241.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+333,13:28:49,EMERGENCY,0.018227000055048848,233.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+334,13:28:49,ESCALATION,1892.598755999984,236.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+335,13:28:51,ESCALATION,1844.124504999968,232.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+336,13:28:53,WELLNESS,1873.3097550000366,227.0,88.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+337,13:28:55,ESCALATION,1912.7355239999133,229.0,89.0,It'ieves to consult a healthcare professional for personalized advice.
+338,13:28:56,WELLNESS,1885.4967570000554,227.0,88.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+339,13:28:58,WELLNESS,1904.722821000064,234.0,89.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+340,13:29:00,WELLNESS,2015.8692390000397,227.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+341,13:29:02,EMERGENCY,0.051410999958534376,248.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+342,13:29:02,EMERGENCY,0.019236999946770084,150.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+343,13:29:02,EMERGENCY,0.016808000054879813,233.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+344,13:29:02,ESCALATION,1959.3191650000108,227.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+345,13:29:04,ESCALATION,1871.1085710000361,227.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+346,13:29:06,WELLNESS,1971.8075480000152,232.0,89.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+347,13:29:08,ESCALATION,1944.529981999949,225.0,87.0,It'ieves to consult a healthcare professional for personalized advice.
+348,13:29:10,WELLNESS,1919.6539139999231,228.0,87.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+349,13:29:12,WELLNESS,1867.379051999933,225.0,87.0,Practice mindfulness meditation for 10 minutes daily to enhance your mental well-being and reduce stress.
+350,13:29:14,WELLNESS,1878.5558639999635,226.0,89.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+351,13:29:16,EMERGENCY,0.050612999984878115,246.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+352,13:29:16,EMERGENCY,0.014104999991104705,241.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+353,13:29:16,EMERGENCY,0.0347159999591895,317.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+354,13:29:16,ESCALATION,1935.77905799998,238.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+355,13:29:18,ESCALATION,2010.9693660000403,226.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+356,13:29:20,WELLNESS,2003.9137149999533,227.0,87.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+357,13:29:22,ESCALATION,1997.6490060000742,231.0,87.0,It'ieves to consult a doctor for a thorough check-up.
+358,13:29:24,WELLNESS,1941.1618810000846,227.0,88.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+359,13:29:26,WELLNESS,1937.581537999904,226.0,86.0,Practice mindfulness meditation for 10 minutes daily to enhance your mental well-being and reduce stress.
+360,13:29:28,WELLNESS,1837.3600329999817,226.0,87.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+361,13:29:30,EMERGENCY,0.05991799991988955,257.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+362,13:29:30,EMERGENCY,0.01569300002302043,150.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+363,13:29:30,EMERGENCY,0.012442999945960764,150.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+364,13:29:30,ESCALATION,1802.9644350000353,228.0,87.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+365,13:29:32,ESCALATION,1837.182322999979,226.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+366,13:29:34,WELLNESS,1907.5538769999412,227.0,88.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+367,13:29:35,ESCALATION,1900.1022119999789,227.0,88.0,It'ieves to consult a healthcare professional for personalized advice.
+368,13:29:37,WELLNESS,1902.7887879999525,229.0,88.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+369,13:29:39,WELLNESS,1920.07955400004,229.0,90.0,Practice mindfulness meditation for 10 minutes daily to enhance your mental well-being and reduce stress.
+370,13:29:41,WELLNESS,2010.72452599999,260.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+371,13:29:43,EMERGENCY,0.05007199990814115,250.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+372,13:29:43,EMERGENCY,0.018939000028694863,233.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+373,13:29:43,EMERGENCY,0.015906999919934606,150.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+374,13:29:43,ESCALATION,1896.711675000006,227.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+375,13:29:45,ESCALATION,1880.2290680000624,228.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+376,13:29:47,WELLNESS,1865.0770790000024,226.0,88.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+377,13:29:49,ESCALATION,1882.3244910000767,227.0,88.0,It'ieves to consult a doctor for a thorough check-up.
+378,13:29:51,WELLNESS,1853.5922590000382,226.0,88.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+379,13:29:53,WELLNESS,1871.3439659999267,227.0,90.0,Practice mindfulness meditation for 10 minutes daily to enhance your mental well-being and reduce stress.
+380,13:29:55,WELLNESS,2032.142848000035,233.0,90.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+381,13:29:57,EMERGENCY,0.0669989999551035,253.0,90.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+382,13:29:57,EMERGENCY,0.016030999972826976,304.0,90.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+383,13:29:57,EMERGENCY,0.02200999995238817,233.0,90.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+384,13:29:57,ESCALATION,2017.5290079999968,236.0,87.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+385,13:29:59,ESCALATION,1952.9701989999921,228.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+386,13:30:01,WELLNESS,1891.2509719999662,228.0,89.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+387,13:30:03,ESCALATION,1973.0950220000523,226.0,87.0,It'ieves to consult a healthcare professional for personalized advice.
+388,13:30:05,WELLNESS,1906.903368999906,228.0,87.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+389,13:30:07,WELLNESS,1839.9413930000037,226.0,88.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+390,13:30:08,WELLNESS,1827.1478450000131,226.0,89.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+391,13:30:10,EMERGENCY,0.04725999997390318,241.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+392,13:30:10,EMERGENCY,0.02651299996614398,241.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+393,13:30:10,EMERGENCY,0.01660400005221163,150.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+394,13:30:10,ESCALATION,1892.2280630000614,242.0,91.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+395,13:30:12,ESCALATION,2042.6033459999644,227.0,87.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+396,13:30:14,WELLNESS,1948.8684069999636,226.0,88.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+397,13:30:16,ESCALATION,1863.4829129999844,225.0,88.0,It'ieves to consult a doctor for a thorough check-up.
+398,13:30:18,WELLNESS,1847.8899060000913,227.0,88.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+399,13:30:20,WELLNESS,1881.274355999949,227.0,88.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+400,13:30:22,WELLNESS,1884.573375000059,226.0,89.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+401,13:30:24,EMERGENCY,0.05535800005418423,239.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+402,13:30:24,EMERGENCY,0.02786899995044223,227.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+403,13:30:24,EMERGENCY,0.015474000065296423,221.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+404,13:30:24,ESCALATION,1891.465794999931,228.0,90.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+405,13:30:26,ESCALATION,2099.9727829999983,233.0,87.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+406,13:30:28,WELLNESS,1952.479245999939,225.0,87.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+407,13:30:30,ESCALATION,1894.3071700000473,227.0,88.0,It'ieves to consult a healthcare professional for personalized advice.
+408,13:30:32,WELLNESS,1850.86276800007,225.0,88.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+409,13:30:34,WELLNESS,1858.0713740000192,226.0,89.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+410,13:30:36,WELLNESS,2034.5267390000572,227.0,89.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+411,13:30:38,EMERGENCY,0.05220500008817908,250.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+412,13:30:38,EMERGENCY,0.01941900006841024,233.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+413,13:30:38,EMERGENCY,0.017877000004773436,241.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+414,13:30:38,ESCALATION,2005.943172000002,227.0,87.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+415,13:30:40,ESCALATION,1944.1503960000546,241.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+416,13:30:42,WELLNESS,1900.162325999986,231.0,89.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+417,13:30:44,ESCALATION,1934.6963729999516,249.0,88.0,It'ieves to consult a doctor for a thorough check-up.
+418,13:30:46,ESCALATION,1861.2313800000493,226.0,89.0,"If your blood pressure is high, it's important to consult a doctor."
+419,13:30:47,WELLNESS,1863.696427999912,226.0,89.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+420,13:30:49,WELLNESS,1918.3187350000708,227.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+421,13:30:51,EMERGENCY,0.0479389999554769,240.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+422,13:30:51,EMERGENCY,0.022173999923325027,241.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+423,13:30:51,EMERGENCY,0.016200999993998266,150.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+424,13:30:51,ESCALATION,1923.5148000000208,227.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+425,13:30:53,ESCALATION,1927.7342840000529,236.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+426,13:30:55,WELLNESS,1921.2555660000135,227.0,89.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+427,13:30:57,ESCALATION,1925.5767409999862,229.0,88.0,It'ieves to consult a doctor for a thorough check-up.
+428,13:30:59,WELLNESS,1949.2170400000077,231.0,88.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+429,13:31:01,WELLNESS,1906.2169410000251,226.0,88.0,Practice mindfulness meditation for 10 minutes daily to enhance your mental well-being and reduce stress.
+430,13:31:03,WELLNESS,1923.9214850000508,226.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+431,13:31:05,EMERGENCY,0.05266999994546495,240.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+432,13:31:05,EMERGENCY,0.019288999965283438,317.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+433,13:31:05,EMERGENCY,0.012840000067626534,150.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+434,13:31:05,ESCALATION,1905.2377970000407,227.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+435,13:31:07,ESCALATION,1918.085935000022,226.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+436,13:31:09,WELLNESS,1924.2689100000234,228.0,88.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+437,13:31:11,ESCALATION,1922.4244299999782,227.0,88.0,It'ieves to consult a healthcare professional for personalized advice.
+438,13:31:13,ESCALATION,1913.8241960000641,226.0,89.0,"If your blood pressure is high, it's important to consult a doctor."
+439,13:31:15,WELLNESS,2037.0836700000154,233.0,89.0,Practice mindfulness meditation for 10 minutes daily to enhance your mental well-being and reduce stress.
+440,13:31:17,WELLNESS,1991.2956240000312,227.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+441,13:31:19,EMERGENCY,0.0509520000377961,244.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+442,13:31:19,EMERGENCY,0.017534999983581656,233.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+443,13:31:19,EMERGENCY,0.019700000052580435,317.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+444,13:31:19,ESCALATION,1941.6307440000082,227.0,87.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+445,13:31:21,ESCALATION,1869.3246110000246,226.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+446,13:31:23,WELLNESS,1883.655709999971,225.0,88.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+447,13:31:24,ESCALATION,1894.0607819999968,229.0,89.0,It'ieves to consult a healthcare professional for personalized advice.
+448,13:31:26,WELLNESS,1908.8821240000016,225.0,88.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+449,13:31:28,WELLNESS,1939.6949609999865,226.0,88.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+450,13:31:30,WELLNESS,1954.6859739999718,233.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+451,13:31:32,EMERGENCY,0.06360199995469884,248.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+452,13:31:32,EMERGENCY,0.02037900003415416,304.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+453,13:31:32,EMERGENCY,0.015437000001838896,150.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+454,13:31:32,ESCALATION,1971.0209219999797,227.0,87.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+455,13:31:34,ESCALATION,1907.1296860000757,227.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+456,13:31:36,WELLNESS,1873.2633409999835,226.0,88.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+457,13:31:38,ESCALATION,1915.8884700000272,226.0,88.0,It'ieves to consult a doctor for a thorough check-up.
+458,13:31:40,WELLNESS,1950.7937629999788,229.0,89.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+459,13:31:42,WELLNESS,1904.2184450000832,227.0,88.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+460,13:31:44,WELLNESS,1925.262918000044,226.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+461,13:31:46,EMERGENCY,0.05216199997448712,245.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+462,13:31:46,EMERGENCY,0.015064000081110862,150.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+463,13:31:46,EMERGENCY,0.02002799999445415,241.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+464,13:31:46,ESCALATION,1956.147173999966,232.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+465,13:31:48,ESCALATION,1903.5493119999956,226.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+466,13:31:50,WELLNESS,1967.7769400000216,240.0,88.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+467,13:31:52,ESCALATION,1927.8169189999517,227.0,89.0,It'ieves to consult a healthcare professional for personalized advice.
+468,13:31:54,WELLNESS,1917.5526300000456,227.0,88.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+469,13:31:56,WELLNESS,1895.573106000029,227.0,88.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+470,13:31:58,WELLNESS,1891.6355090000252,227.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+471,13:32:00,EMERGENCY,0.05041399992933293,246.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+472,13:32:00,EMERGENCY,0.019973000007666997,233.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+473,13:32:00,EMERGENCY,0.01601399992523511,241.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+474,13:32:00,ESCALATION,1901.8666609999855,228.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+475,13:32:01,ESCALATION,1964.517497000088,231.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+476,13:32:03,WELLNESS,1906.9001190000563,225.0,88.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+477,13:32:05,ESCALATION,1901.774223000075,227.0,88.0,It'ieves to consult a doctor for a thorough check-up.
+478,13:32:07,ESCALATION,1899.5273890000135,226.0,89.0,"If your blood pressure is high, it's important to consult a doctor."
+479,13:32:09,WELLNESS,1922.2276049999891,227.0,90.0,Practice mindfulness meditation for 10 minutes daily to enhance your mental well-being and reduce stress.
+480,13:32:11,WELLNESS,1916.8783220000023,226.0,90.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+481,13:32:13,EMERGENCY,0.08255299997017573,361.0,90.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+482,13:32:13,EMERGENCY,0.03224199997475807,617.0,90.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+483,13:32:13,EMERGENCY,0.03178600002229359,417.0,90.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+484,13:32:13,ESCALATION,1912.7598740000167,230.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+485,13:32:15,ESCALATION,1930.7349680000243,230.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+486,13:32:17,WELLNESS,1946.8614290000232,229.0,88.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+487,13:32:19,ESCALATION,1942.1865840000692,229.0,89.0,It'ieves to consult a healthcare professional for personalized advice.
+488,13:32:21,ESCALATION,1894.8558900000307,225.0,88.0,"If your blood pressure is high, it's important to consult a doctor."
+489,13:32:23,WELLNESS,1903.3026510001037,226.0,88.0,Practice mindfulness meditation for 10 minutes daily to enhance your mental well-being and reduce stress.
+490,13:32:25,WELLNESS,1918.8558820000026,227.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+491,13:32:27,EMERGENCY,0.0508110000509987,246.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+492,13:32:27,EMERGENCY,0.019463999933577725,233.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+493,13:32:27,EMERGENCY,0.019014000031347678,241.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+494,13:32:27,ESCALATION,1892.2739700000193,225.0,90.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+495,13:32:29,ESCALATION,2111.161030000062,244.0,87.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+496,13:32:31,WELLNESS,1987.0729499999698,241.0,89.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+497,13:32:33,ESCALATION,1870.2225739999676,232.0,89.0,It'ieves to consult a doctor for a thorough check-up.
+498,13:32:35,WELLNESS,2013.4976189999634,231.0,89.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+499,13:32:37,WELLNESS,1954.3805030000385,227.0,87.0,Practice mindfulness meditation for 10 minutes daily to enhance your mental well-being and reduce stress.
+500,13:32:39,WELLNESS,1903.274314999976,230.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+501,13:32:41,EMERGENCY,0.046064000002843386,246.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+502,13:32:41,EMERGENCY,0.01719800002319971,150.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+503,13:32:41,EMERGENCY,0.012638000043807551,233.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+504,13:32:41,ESCALATION,1878.0788299999358,225.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+505,13:32:43,ESCALATION,1986.4934290000065,235.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+506,13:32:45,WELLNESS,1971.5634190000628,230.0,87.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+507,13:32:47,ESCALATION,1970.7172420000916,236.0,87.0,It'ieves to consult a doctor for a thorough check-up.
+508,13:32:49,WELLNESS,2498.804181999958,356.0,87.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+509,13:32:51,WELLNESS,2608.3798920000163,393.0,89.0,Practice mindfulness meditation for 10 minutes daily to enhance your mental well-being and reduce stress.
+510,13:32:54,WELLNESS,3145.7077449999815,481.0,89.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+511,13:32:57,EMERGENCY,0.07481000000097993,441.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+512,13:32:57,EMERGENCY,0.0396660000205884,462.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+513,13:32:57,EMERGENCY,0.03027299999303068,367.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+514,13:32:57,ESCALATION,3224.4810369999186,479.0,91.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+515,13:33:00,ESCALATION,2574.905467999997,379.0,90.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+516,13:33:03,WELLNESS,2362.534215999972,299.0,89.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+517,13:33:05,ESCALATION,2381.1018360000844,249.0,87.0,It'ieves to consult a healthcare professional for personalized advice.
+518,13:33:08,WELLNESS,2145.2872679999473,237.0,87.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+519,13:33:10,WELLNESS,2100.6222390000175,237.0,88.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+520,13:33:12,WELLNESS,2068.8813760000357,239.0,87.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+521,13:33:14,EMERGENCY,0.07350700002461963,269.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+522,13:33:14,EMERGENCY,0.01635500007068913,227.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+523,13:33:14,EMERGENCY,0.021377999928517966,241.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+524,13:33:14,ESCALATION,2075.0469229999453,237.0,87.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+525,13:33:16,ESCALATION,2031.4690959999098,259.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+526,13:33:18,WELLNESS,1992.0417210000778,241.0,88.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+527,13:33:20,ESCALATION,2009.2256110000335,240.0,89.0,It'ieves to consult a doctor for a thorough check-up.
+528,13:33:22,WELLNESS,2049.30681999997,249.0,88.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+529,13:33:24,WELLNESS,2085.9964420000097,280.0,88.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+530,13:33:26,WELLNESS,2044.841238999993,238.0,89.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+531,13:33:29,EMERGENCY,0.051274000043122214,249.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+532,13:33:29,EMERGENCY,0.018029999978352862,233.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+533,13:33:29,EMERGENCY,0.02043500001036591,150.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+534,13:33:29,ESCALATION,2020.358793000014,235.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+535,13:33:31,ESCALATION,2031.1527700000624,246.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+536,13:33:33,WELLNESS,1972.1085879999691,229.0,89.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+537,13:33:35,ESCALATION,2079.84972700001,234.0,89.0,It'ieves to consult a doctor for a thorough check-up.
+538,13:33:37,ESCALATION,2254.810120000002,259.0,89.0,"If your blood pressure is high, it's important to consult a doctor."
+539,13:33:39,WELLNESS,2442.9355040000473,318.0,88.0,Practice mindfulness meditation for 10 minutes daily to enhance your mental well-being and reduce stress.
+540,13:33:41,WELLNESS,1991.3488150000376,239.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+541,13:33:43,EMERGENCY,0.05289400007768563,256.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+542,13:33:43,EMERGENCY,0.021285000002535526,332.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+543,13:33:43,EMERGENCY,0.019222999981138855,150.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+544,13:33:44,ESCALATION,1970.8374690000028,242.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+545,13:33:45,ESCALATION,2054.562009999927,230.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+546,13:33:48,WELLNESS,2167.532035000022,259.0,89.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+547,13:33:50,ESCALATION,2071.686055999976,260.0,89.0,It'ieves to consult a doctor for a thorough check-up.
+548,13:33:52,WELLNESS,1959.191388000022,234.0,89.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+549,13:33:54,WELLNESS,2010.9220009999262,241.0,91.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+550,13:33:56,WELLNESS,2056.730213000037,239.0,89.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+551,13:33:58,EMERGENCY,0.06435399996007618,320.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+552,13:33:58,EMERGENCY,0.02431300003991055,233.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+553,13:33:58,EMERGENCY,0.022873999910189013,241.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+554,13:33:58,ESCALATION,2137.0691910000232,238.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+555,13:34:00,ESCALATION,2102.524399999993,237.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+556,13:34:02,WELLNESS,2100.6323430000293,245.0,89.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+557,13:34:04,ESCALATION,2147.053892000031,249.0,87.0,It'ieves to consult a doctor for a thorough check-up.
+558,13:34:07,WELLNESS,2068.559430999926,239.0,88.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+559,13:34:09,WELLNESS,2015.9462179999537,253.0,89.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+560,13:34:11,WELLNESS,1978.8825940000834,241.0,90.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+561,13:34:13,EMERGENCY,0.08026799991966982,401.0,90.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+562,13:34:13,EMERGENCY,0.029810000000907166,417.0,90.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+563,13:34:13,EMERGENCY,0.031031999924380216,612.0,90.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+564,13:34:13,ESCALATION,2028.3278000000564,256.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+565,13:34:15,ESCALATION,2020.2064789999667,238.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+566,13:34:17,WELLNESS,2041.860531999987,242.0,91.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+567,13:34:19,ESCALATION,2165.023268000027,238.0,89.0,It'ieves to consult a healthcare professional for personalized advice.
+568,13:34:21,ESCALATION,2200.0805799999625,245.0,87.0,"If your blood pressure is high, it's important to consult a doctor."
+569,13:34:23,WELLNESS,1992.9297479999377,230.0,89.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+570,13:34:25,WELLNESS,2067.4866079999674,233.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+571,13:34:27,EMERGENCY,0.050126999894928304,278.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+572,13:34:27,EMERGENCY,0.01901199993881164,150.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+573,13:34:27,EMERGENCY,0.018507000049794442,317.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+574,13:34:27,ESCALATION,2000.6028849999211,235.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+575,13:34:29,ESCALATION,1936.3128159999405,237.0,87.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+576,13:34:31,WELLNESS,1987.3857609999277,234.0,90.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+577,13:34:33,ESCALATION,2021.1821479999799,250.0,89.0,It'ieves to consult a healthcare professional for personalized advice.
+578,13:34:35,WELLNESS,1979.9210570000696,233.0,90.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+579,13:34:37,WELLNESS,2149.215715999958,235.0,88.0,Practice mindfulness meditation for 10 minutes daily to enhance your mental well-being and reduce stress.
+580,13:34:40,WELLNESS,2209.8718010000766,256.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+581,13:34:42,EMERGENCY,0.0501770000482793,266.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+582,13:34:42,EMERGENCY,0.02238799993392604,241.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+583,13:34:42,EMERGENCY,0.019712999915100227,194.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+584,13:34:42,ESCALATION,2091.1365599999954,263.0,90.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+585,13:34:44,ESCALATION,1986.3212270000759,239.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+586,13:34:46,WELLNESS,1974.155595999946,235.0,88.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+587,13:34:48,ESCALATION,1966.681173999973,235.0,89.0,It'ieves to consult a healthcare professional for personalized advice.
+588,13:34:50,WELLNESS,2022.1125399999664,241.0,89.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+589,13:34:52,WELLNESS,2019.4395700000314,235.0,88.0,Practice mindfulness meditation for 10 minutes daily to enhance your mental well-being and reduce stress.
+590,13:34:54,WELLNESS,2026.082282999937,240.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+591,13:34:56,EMERGENCY,0.04906099991330848,256.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+592,13:34:56,EMERGENCY,0.014916999930392194,233.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+593,13:34:56,EMERGENCY,0.0195800000710733,150.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+594,13:34:56,ESCALATION,2012.3220389999688,238.0,91.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+595,13:34:58,ESCALATION,2005.9735950000004,235.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+596,13:35:00,WELLNESS,2035.333506000029,239.0,89.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+597,13:35:02,ESCALATION,1985.7210199999145,235.0,90.0,It'ieves to consult a healthcare professional for personalized advice.
+598,13:35:04,WELLNESS,2199.7316069999897,263.0,88.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+599,13:35:06,WELLNESS,2108.147064000036,258.0,88.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+600,13:35:09,WELLNESS,1987.6471819999324,239.0,90.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+601,13:35:11,EMERGENCY,0.0487340000745462,249.0,90.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+602,13:35:11,EMERGENCY,0.015663999988646538,233.0,90.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+603,13:35:11,EMERGENCY,0.015758000017740414,241.0,90.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+604,13:35:11,ESCALATION,2004.5846149999988,247.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+605,13:35:13,ESCALATION,1905.2936369999998,232.0,91.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+606,13:35:15,WELLNESS,2223.9376559999755,239.0,87.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+607,13:35:17,ESCALATION,2125.090532999934,240.0,89.0,It'ieves to consult a doctor for a thorough check-up.
+608,13:35:19,WELLNESS,2115.6974009999203,263.0,88.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+609,13:35:21,WELLNESS,1980.8002209999813,241.0,89.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+610,13:35:23,WELLNESS,2092.4510429999827,241.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+611,13:35:25,EMERGENCY,0.056028000017249724,264.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+612,13:35:25,EMERGENCY,0.019928000028812676,304.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+613,13:35:25,EMERGENCY,0.02043799997863971,233.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+614,13:35:25,ESCALATION,2033.9009300000725,238.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+615,13:35:27,ESCALATION,2083.375851000028,239.0,87.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+616,13:35:30,WELLNESS,2218.1711580000183,281.0,88.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+617,13:35:32,ESCALATION,1947.7351049999925,234.0,89.0,It'ieves to consult a doctor for a thorough check-up.
+618,13:35:34,WELLNESS,2056.229071999951,240.0,89.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+619,13:35:36,WELLNESS,1973.36501399991,240.0,88.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+620,13:35:38,WELLNESS,2084.233859000051,268.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+621,13:35:40,EMERGENCY,0.05285499992169207,246.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+622,13:35:40,EMERGENCY,0.015254000004460977,293.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+623,13:35:40,EMERGENCY,0.011338999911458814,150.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+624,13:35:40,ESCALATION,1962.0657129999017,238.0,91.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+625,13:35:42,ESCALATION,2215.449200999956,239.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+626,13:35:44,WELLNESS,2139.1280730000517,233.0,87.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+627,13:35:46,ESCALATION,2026.865523999959,238.0,87.0,It'ieves to consult a doctor for a thorough check-up.
+628,13:35:48,WELLNESS,1887.6081900000372,233.0,89.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+629,13:35:50,WELLNESS,1937.5759270001254,240.0,88.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+630,13:35:52,WELLNESS,2087.185879999879,239.0,89.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+631,13:35:54,EMERGENCY,0.048378999963460956,252.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+632,13:35:54,EMERGENCY,0.018572000044514425,221.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+633,13:35:54,EMERGENCY,0.019741000187423197,150.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+634,13:35:54,ESCALATION,2064.455086999942,239.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+635,13:35:56,ESCALATION,2094.1722290001508,260.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+636,13:35:59,WELLNESS,1930.978763999974,227.0,88.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+637,13:36:00,ESCALATION,2255.0750810000864,248.0,87.0,It'ieves to consult a healthcare professional for personalized advice.
+638,13:36:03,WELLNESS,2113.6609130001034,249.0,88.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+639,13:36:05,WELLNESS,1988.0129229998147,233.0,88.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+640,13:36:07,WELLNESS,1915.9069610000188,239.0,89.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+641,13:36:09,EMERGENCY,0.04749499998979445,245.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+642,13:36:09,EMERGENCY,0.017891999959829263,227.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+643,13:36:09,EMERGENCY,0.013396999975157087,150.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+644,13:36:09,ESCALATION,1977.3751469999752,240.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+645,13:36:11,ESCALATION,2042.1552180000617,250.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+646,13:36:13,WELLNESS,2141.8227829999523,251.0,88.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+647,13:36:15,ESCALATION,1909.7291830000813,233.0,88.0,It'ieves to consult a doctor for a thorough check-up.
+648,13:36:17,WELLNESS,1992.3831680000603,251.0,89.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+649,13:36:19,WELLNESS,2040.2356990000499,241.0,89.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+650,13:36:21,WELLNESS,2121.8465019999257,242.0,89.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+651,13:36:23,EMERGENCY,0.050964000138264964,245.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+652,13:36:23,EMERGENCY,0.01714699988042412,150.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+653,13:36:23,EMERGENCY,0.019568999960029032,241.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+654,13:36:23,ESCALATION,2026.2536139998701,234.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+655,13:36:25,ESCALATION,2120.90916000011,252.0,87.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+656,13:36:28,WELLNESS,1939.2511250000553,234.0,88.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+657,13:36:29,ESCALATION,1899.9240329999338,233.0,89.0,It'ieves to consult a doctor for a thorough check-up.
+658,13:36:31,ESCALATION,2096.4386309999554,243.0,88.0,"If your blood pressure is high, it's important to consult a doctor."
+659,13:36:33,WELLNESS,2068.6327590001383,256.0,87.0,Practice mindfulness meditation for 10 minutes daily to enhance your mental well-being and reduce stress.
+660,13:36:36,WELLNESS,1922.2539869999764,227.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+661,13:36:38,EMERGENCY,0.04614199997377,235.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+662,13:36:38,EMERGENCY,0.01994600006582914,150.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+663,13:36:38,EMERGENCY,0.018421000049784197,150.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+664,13:36:38,ESCALATION,1892.0243039999605,231.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+665,13:36:39,ESCALATION,1929.7882440000649,238.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+666,13:36:41,WELLNESS,2002.6039489998766,229.0,88.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+667,13:36:43,ESCALATION,1916.7363049998585,225.0,87.0,It'ieves to consult a doctor for a thorough check-up.
+668,13:36:45,ESCALATION,1898.0721760001416,222.0,87.0,"If your blood pressure is high, it's important to consult a doctor."
+669,13:36:47,WELLNESS,2090.2717440001197,230.0,87.0,Practice mindfulness meditation for 10 minutes daily to enhance your mental well-being and reduce stress.
+670,13:36:49,WELLNESS,1946.8973079999614,233.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+671,13:36:51,EMERGENCY,0.057396999864067766,233.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+672,13:36:51,EMERGENCY,0.016443000049548573,250.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+673,13:36:51,EMERGENCY,0.018059000012726756,317.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+674,13:36:51,ESCALATION,2135.042203000012,276.0,90.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+675,13:36:54,ESCALATION,1931.0180630000104,232.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+676,13:36:56,WELLNESS,2018.262993999997,231.0,89.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+677,13:36:58,ESCALATION,2121.3839050001297,240.0,87.0,It'ieves to consult a doctor for a thorough check-up.
+678,13:37:00,WELLNESS,1964.378368000098,229.0,88.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+679,13:37:02,WELLNESS,2065.720140999929,254.0,88.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+680,13:37:04,WELLNESS,1958.6948449998545,243.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+681,13:37:06,EMERGENCY,0.050169999894933426,240.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+682,13:37:06,EMERGENCY,0.017987000092034577,150.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+683,13:37:06,EMERGENCY,0.018335000049773953,317.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+684,13:37:06,ESCALATION,2045.6946729998435,239.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+685,13:37:08,ESCALATION,1914.8669580001751,230.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+686,13:37:10,WELLNESS,1913.402872000006,232.0,89.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+687,13:37:12,ESCALATION,1970.7115300000169,246.0,88.0,It'ieves to consult a healthcare professional for personalized advice.
+688,13:37:14,WELLNESS,1910.1777729999867,232.0,88.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+689,13:37:16,WELLNESS,1978.747579000128,233.0,88.0,Practice mindfulness meditation for 10 minutes daily to enhance your mental well-being and reduce stress.
+690,13:37:18,WELLNESS,1994.67904800008,230.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+691,13:37:20,EMERGENCY,0.10997799995493551,402.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+692,13:37:20,EMERGENCY,0.039124000068113673,594.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+693,13:37:20,EMERGENCY,0.055081000027712435,483.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+694,13:37:20,ESCALATION,2116.8157969998447,235.0,87.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+695,13:37:22,ESCALATION,2093.7514170000213,241.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+696,13:37:24,WELLNESS,1986.3103719999344,235.0,87.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+697,13:37:26,ESCALATION,1963.137548000077,245.0,88.0,It'ieves to consult a doctor for a thorough check-up.
+698,13:37:28,WELLNESS,1893.0525920000036,229.0,89.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+699,13:37:30,WELLNESS,1910.7362069998999,239.0,88.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+700,13:37:32,WELLNESS,1948.3642400000463,230.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+701,13:37:34,EMERGENCY,0.046341999905052944,236.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+702,13:37:34,EMERGENCY,0.017630999991524732,150.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+703,13:37:34,EMERGENCY,0.02033500004472444,233.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+704,13:37:34,ESCALATION,2065.074778000053,237.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+705,13:37:36,ESCALATION,2049.2483170000924,233.0,87.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+706,13:37:38,WELLNESS,2027.6584519999687,241.0,90.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+707,13:37:40,ESCALATION,2049.1858570001114,253.0,91.0,It'ieves to consult a healthcare professional for personalized advice.
+708,13:37:42,WELLNESS,2070.5668160001096,240.0,89.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+709,13:37:44,WELLNESS,1972.4309079999784,231.0,87.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+710,13:37:46,WELLNESS,1961.545155000067,232.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+711,13:37:48,EMERGENCY,0.047079000069061294,234.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+712,13:37:48,EMERGENCY,0.01979600006052351,332.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+713,13:37:48,EMERGENCY,0.0168279998433718,150.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+714,13:37:48,ESCALATION,1961.0093480000614,244.0,87.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+715,13:37:50,ESCALATION,2041.994299999942,234.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+716,13:37:52,WELLNESS,1895.2887660000215,226.0,88.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+717,13:37:54,ESCALATION,1965.1660560000437,238.0,88.0,It'ieves to consult a doctor for a thorough check-up.
+718,13:37:56,WELLNESS,2009.7107200001574,252.0,89.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+719,13:37:58,WELLNESS,1945.7850020000933,227.0,88.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+720,13:38:00,WELLNESS,2056.528887000013,244.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+721,13:38:02,EMERGENCY,0.05370999997467152,251.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+722,13:38:02,EMERGENCY,0.013968000075692544,150.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+723,13:38:02,EMERGENCY,0.02107499994963291,250.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+724,13:38:02,ESCALATION,1971.3331609998477,240.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+725,13:38:04,ESCALATION,1910.8763419999377,231.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+726,13:38:06,WELLNESS,2011.7476899999929,234.0,90.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+727,13:38:08,ESCALATION,2037.4685530000534,230.0,89.0,It'ieves to consult a healthcare professional for personalized advice.
+728,13:38:10,WELLNESS,2044.6649450000223,237.0,88.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+729,13:38:12,WELLNESS,1976.0049300000446,243.0,88.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+730,13:38:14,WELLNESS,1977.0161799999642,245.0,87.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+731,13:38:16,EMERGENCY,0.04640299994207453,230.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+732,13:38:16,EMERGENCY,0.01665399986450211,150.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+733,13:38:16,EMERGENCY,0.01338399988526362,233.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+734,13:38:16,ESCALATION,1918.2601360000717,231.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+735,13:38:18,ESCALATION,1955.9632640000473,233.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+736,13:38:20,WELLNESS,1996.4447330000894,230.0,89.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+737,13:38:22,ESCALATION,2080.832255000132,243.0,88.0,It'ieves to consult a doctor for a thorough check-up.
+738,13:38:24,WELLNESS,1938.653929000111,237.0,88.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+739,13:38:26,WELLNESS,2059.7493049999684,237.0,89.0,Practice mindfulness meditation for 10 minutes daily to enhance your mental well-being and reduce stress.
+740,13:38:28,WELLNESS,2012.1504910000567,230.0,87.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+741,13:38:31,EMERGENCY,0.04710700000032375,245.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+742,13:38:31,EMERGENCY,0.017127999853983056,150.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+743,13:38:31,EMERGENCY,0.016211999991355697,227.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+744,13:38:31,ESCALATION,2144.309755999984,236.0,87.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+745,13:38:33,ESCALATION,2127.4148600000444,259.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+746,13:38:35,WELLNESS,2026.1499600001116,237.0,88.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+747,13:38:37,ESCALATION,1938.8700679999147,227.0,88.0,It'ieves to consult a doctor for a thorough check-up.
+748,13:38:39,WELLNESS,1931.5819339999507,236.0,88.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+749,13:38:41,WELLNESS,1909.4018079999842,239.0,89.0,Practice mindfulness meditation for 10 minutes daily to enhance your mental well-being and reduce stress.
+750,13:38:43,WELLNESS,2006.3597260000279,251.0,87.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+751,13:38:45,EMERGENCY,0.04179799998382805,234.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+752,13:38:45,EMERGENCY,0.015945999848554493,150.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+753,13:38:45,EMERGENCY,0.012669999932768405,150.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+754,13:38:45,ESCALATION,1920.9033549998367,228.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+755,13:38:47,ESCALATION,1954.454184000042,228.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+756,13:38:49,WELLNESS,2073.222519999945,230.0,87.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+757,13:38:51,ESCALATION,2014.126461999922,237.0,88.0,It'ieves to consult a doctor for a thorough check-up.
+758,13:38:53,ESCALATION,1965.8447039998919,229.0,88.0,"If your blood pressure is high, it's important to consult a doctor."
+759,13:38:55,WELLNESS,2146.3913940001476,259.0,87.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+760,13:38:57,WELLNESS,1981.203277999839,229.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+761,13:38:59,EMERGENCY,0.047760000143171055,281.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+762,13:38:59,EMERGENCY,0.022369999896909576,241.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+763,13:38:59,EMERGENCY,0.01538600008643698,227.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+764,13:38:59,ESCALATION,1879.4344799998726,227.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+765,13:39:01,ESCALATION,1954.5131979998587,231.0,87.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+766,13:39:03,WELLNESS,1936.1297039999954,235.0,90.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+767,13:39:05,ESCALATION,1979.1103830000338,247.0,87.0,It'ieves to consult a doctor for a thorough check-up.
+768,13:39:07,WELLNESS,2046.1872120001772,236.0,88.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+769,13:39:09,WELLNESS,1908.6480190001112,230.0,88.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+770,13:39:11,WELLNESS,1874.8099479998928,228.0,90.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+771,13:39:13,EMERGENCY,0.049403000048187096,236.0,90.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+772,13:39:13,EMERGENCY,0.014580999959434848,233.0,90.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+773,13:39:13,EMERGENCY,0.020228000039423932,150.0,90.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+774,13:39:13,ESCALATION,2242.0719120000285,258.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+775,13:39:15,ESCALATION,2018.265159000066,235.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+776,13:39:17,WELLNESS,1901.8285009999545,229.0,88.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+777,13:39:19,ESCALATION,1916.635805000169,234.0,88.0,It'ieves to consult a doctor for a thorough check-up.
+778,13:39:21,WELLNESS,1906.955489999973,239.0,88.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+779,13:39:23,WELLNESS,1906.3853669999844,233.0,88.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+780,13:39:25,WELLNESS,1908.0856269999913,224.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+781,13:39:27,EMERGENCY,0.05002800003239827,230.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+782,13:39:27,EMERGENCY,0.017104999869843596,150.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+783,13:39:27,EMERGENCY,0.015010999959486071,227.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+784,13:39:27,ESCALATION,1993.0750959999841,233.0,87.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+785,13:39:29,ESCALATION,1943.1057460001284,231.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+786,13:39:31,WELLNESS,1968.1286600000476,235.0,88.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+787,13:39:33,ESCALATION,2058.3059639998282,242.0,88.0,It'ieves to consult a healthcare professional for personalized advice.
+788,13:39:35,WELLNESS,1875.9800010000163,229.0,88.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+789,13:39:37,WELLNESS,2039.5786540000245,236.0,88.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+790,13:39:39,WELLNESS,2062.251741999944,237.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+791,13:39:41,EMERGENCY,0.05146300009073457,239.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+792,13:39:41,EMERGENCY,0.01940299989655614,241.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+793,13:39:41,EMERGENCY,0.035283999977764324,483.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+794,13:39:41,ESCALATION,2091.8479980000484,244.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+795,13:39:43,ESCALATION,2013.7994359999993,230.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+796,13:39:45,WELLNESS,2039.1258459999335,238.0,89.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+797,13:39:47,ESCALATION,1996.3849099999607,233.0,87.0,It'ieves to consult a doctor for a thorough check-up.
+798,13:39:49,WELLNESS,2009.6395360001225,231.0,89.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+799,13:39:51,WELLNESS,2064.5450669999263,254.0,87.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+800,13:39:53,WELLNESS,1942.7068239999699,234.0,87.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+801,13:39:55,EMERGENCY,0.04866500012212782,246.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+802,13:39:55,EMERGENCY,0.015790999896125868,150.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+803,13:39:55,EMERGENCY,0.014659000044048298,233.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+804,13:39:55,ESCALATION,1924.440967999999,243.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+805,13:39:57,ESCALATION,1889.7150899999815,230.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+806,13:39:59,WELLNESS,2115.9634050000022,253.0,88.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+807,13:40:01,ESCALATION,2034.56567000012,250.0,88.0,It'ieves to consult a healthcare professional for personalized advice.
+808,13:40:03,WELLNESS,2010.0293269999838,236.0,88.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+809,13:40:05,WELLNESS,1967.5443720000203,230.0,88.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+810,13:40:07,WELLNESS,2048.795698999811,256.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+811,13:40:09,EMERGENCY,0.046462999989671516,235.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+812,13:40:09,EMERGENCY,0.01615900009710458,241.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+813,13:40:09,EMERGENCY,0.016407999964940245,150.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+814,13:40:09,ESCALATION,1946.4714060000006,233.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+815,13:40:11,ESCALATION,1943.164445000093,231.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+816,13:40:13,WELLNESS,1975.8806079998976,231.0,88.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+817,13:40:15,ESCALATION,1969.4450429999506,247.0,89.0,It'ieves to consult a doctor for a thorough check-up.
+818,13:40:17,WELLNESS,2044.1632350000418,245.0,88.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+819,13:40:19,WELLNESS,2025.530955000022,247.0,89.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+820,13:40:21,WELLNESS,1958.786094000061,229.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+821,13:40:23,EMERGENCY,0.0444690001586423,237.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+822,13:40:24,EMERGENCY,0.017671000023256056,150.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+823,13:40:24,EMERGENCY,0.0168279998433718,150.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+824,13:40:24,ESCALATION,1931.064455999831,227.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+825,13:40:25,ESCALATION,2024.9376189999566,234.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+826,13:40:27,WELLNESS,2111.7213889999675,257.0,88.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+827,13:40:30,ESCALATION,1886.1097229998904,225.0,88.0,It'ieves to consult a doctor for a thorough check-up.
+828,13:40:31,ESCALATION,1884.8224359999222,231.0,88.0,"If your blood pressure is high, it's important to consult a doctor."
+829,13:40:33,WELLNESS,1912.0677450000585,226.0,88.0,Practice mindfulness meditation for 10 minutes daily to enhance your mental well-being and reduce stress.
+830,13:40:35,WELLNESS,1876.4776530001654,223.0,89.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+831,13:40:37,EMERGENCY,0.049017000037565595,241.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+832,13:40:37,EMERGENCY,0.02480399984960968,227.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+833,13:40:37,EMERGENCY,0.08615800015832065,241.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+834,13:40:37,ESCALATION,1979.6875700001237,223.0,87.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+835,13:40:39,ESCALATION,1861.5288050000345,222.0,87.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+836,13:40:41,WELLNESS,1835.8430279999993,223.0,88.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+837,13:40:43,ESCALATION,1860.255699000163,223.0,88.0,It'ieves to consult a healthcare professional for personalized advice.
+838,13:40:45,WELLNESS,1901.9625700000233,225.0,88.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+839,13:40:47,WELLNESS,1979.9384529999315,244.0,88.0,Practice mindfulness meditation for 10 minutes daily to enhance your mental well-being and reduce stress.
+840,13:40:49,WELLNESS,2055.2488399998765,235.0,87.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+841,13:40:51,EMERGENCY,0.05682100004378299,241.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+842,13:40:51,EMERGENCY,0.018233999981021043,150.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+843,13:40:51,EMERGENCY,0.025128000061158673,317.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+844,13:40:51,ESCALATION,1949.8820149999574,229.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+845,13:40:53,ESCALATION,1996.8568140000116,224.0,87.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+846,13:40:55,WELLNESS,2369.6039869998913,286.0,88.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+847,13:40:57,ESCALATION,1859.3624479999562,223.0,88.0,It'ieves to consult a doctor for a thorough check-up.
+848,13:40:59,ESCALATION,1848.7699099998736,225.0,88.0,"If your blood pressure is high, it's important to consult a doctor."
+849,13:41:01,WELLNESS,1844.314967999935,224.0,89.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+850,13:41:03,WELLNESS,2123.8087980000273,233.0,87.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+851,13:41:05,EMERGENCY,0.048231999926429125,224.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+852,13:41:05,EMERGENCY,0.01987700011341076,304.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+853,13:41:05,EMERGENCY,0.015402000144604244,233.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+854,13:41:05,ESCALATION,1884.3687799999316,228.0,87.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+855,13:41:07,ESCALATION,1942.80585599995,237.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+856,13:41:09,WELLNESS,2063.1798540000545,255.0,88.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+857,13:41:11,ESCALATION,2038.9690940000946,235.0,88.0,It'ieves to consult a doctor for a thorough check-up.
+858,13:41:13,WELLNESS,1975.0256289999015,231.0,88.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+859,13:41:15,WELLNESS,1963.519079999969,239.0,88.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+860,13:41:17,WELLNESS,1948.9256880001449,232.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+861,13:41:19,EMERGENCY,0.05231500017544022,291.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+862,13:41:19,EMERGENCY,0.015275999885489,203.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+863,13:41:19,EMERGENCY,0.017898000123750535,233.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+864,13:41:19,ESCALATION,2011.825422999891,232.0,90.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+865,13:41:21,ESCALATION,2726.5744650001125,335.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+866,13:41:24,WELLNESS,1962.7905489999193,235.0,88.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+867,13:41:26,ESCALATION,2202.093325000078,296.0,89.0,It'ieves to consult a doctor for a thorough check-up.
+868,13:41:28,WELLNESS,2048.937897999849,244.0,88.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+869,13:41:30,WELLNESS,2189.1166150001027,240.0,87.0,Practice mindfulness meditation for 10 minutes daily to enhance your mental well-being and reduce stress.
+870,13:41:32,WELLNESS,2068.0947160001324,268.0,89.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+871,13:41:35,EMERGENCY,0.04545699994196184,235.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+872,13:41:35,EMERGENCY,0.021141999923202093,317.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+873,13:41:35,EMERGENCY,0.015473000075871823,233.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+874,13:41:35,ESCALATION,1947.2492310001144,234.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+875,13:41:36,ESCALATION,1932.1937299998808,226.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+876,13:41:38,WELLNESS,1969.606990000102,228.0,88.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+877,13:41:40,ESCALATION,2279.2967420000423,291.0,88.0,It'ieves to consult a doctor for a thorough check-up.
+878,13:41:43,ESCALATION,1833.4764440000981,225.0,91.0,"If your blood pressure is high, it's important to consult a doctor."
+879,13:41:45,WELLNESS,1970.4776930000207,225.0,87.0,Practice mindfulness meditation for 10 minutes daily to enhance your mental well-being and reduce stress.
+880,13:41:47,WELLNESS,2043.8645660001384,227.0,87.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+881,13:41:49,EMERGENCY,0.05079000015939528,241.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+882,13:41:49,EMERGENCY,0.016757000139477896,150.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+883,13:41:49,EMERGENCY,0.021981999907438876,241.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+884,13:41:49,ESCALATION,1985.6009449999874,235.0,87.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+885,13:41:51,ESCALATION,1946.814748000179,241.0,87.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+886,13:41:53,WELLNESS,1903.7452869999925,227.0,88.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+887,13:41:55,ESCALATION,1997.8357519999008,238.0,89.0,It'ieves to consult a doctor for a thorough check-up.
+888,13:41:57,WELLNESS,1968.7898980000682,225.0,87.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+889,13:41:59,WELLNESS,1984.0261629999532,229.0,88.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+890,13:42:01,WELLNESS,1975.2339680001114,226.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+891,13:42:03,EMERGENCY,0.05775599993285141,234.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+892,13:42:03,EMERGENCY,0.02152800016119727,241.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+893,13:42:03,EMERGENCY,0.021408000066003297,233.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+894,13:42:03,ESCALATION,1988.2190280000032,230.0,86.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+895,13:42:05,ESCALATION,1987.9690239999945,248.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+896,13:42:07,WELLNESS,1866.044858000123,236.0,89.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+897,13:42:09,ESCALATION,1885.4612249999718,231.0,89.0,It'ieves to consult a doctor for a thorough check-up.
+898,13:42:10,ESCALATION,1989.4488129998535,237.0,88.0,"If your blood pressure is high, it's important to consult a doctor."
+899,13:42:12,WELLNESS,2007.2932550001497,236.0,88.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+900,13:42:14,WELLNESS,1974.480769000138,248.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+901,13:42:17,EMERGENCY,0.04107700010536064,252.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+902,13:42:17,EMERGENCY,0.02119499981745321,233.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+903,13:42:17,EMERGENCY,0.023037000119074946,233.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+904,13:42:17,ESCALATION,1921.599014000094,228.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+905,13:42:18,ESCALATION,1900.5616439999358,228.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+906,13:42:20,WELLNESS,1956.37448399998,239.0,88.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+907,13:42:22,ESCALATION,1853.5577439999997,223.0,88.0,It'ieves to consult a doctor for a thorough check-up.
+908,13:42:24,WELLNESS,1920.357164999814,232.0,89.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+909,13:42:26,WELLNESS,1983.7117479999051,227.0,87.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+910,13:42:28,WELLNESS,1930.9980739999446,225.0,87.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+911,13:42:30,EMERGENCY,0.05402600004345004,243.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+912,13:42:30,EMERGENCY,0.020174000155748217,304.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+913,13:42:30,EMERGENCY,0.01805300007617916,150.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+914,13:42:30,ESCALATION,1928.2573250000041,235.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+915,13:42:32,ESCALATION,1914.8497769999722,230.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+916,13:42:34,WELLNESS,1903.9070530000117,223.0,87.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+917,13:42:36,ESCALATION,1954.8583379998945,234.0,88.0,It'ieves to consult a doctor for a thorough check-up.
+918,13:42:38,WELLNESS,1988.1821699998454,238.0,88.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+919,13:42:40,WELLNESS,1878.1715119998807,229.0,87.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+920,13:42:42,WELLNESS,1922.3320630001126,231.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+921,13:42:44,EMERGENCY,0.046829999973851955,243.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+922,13:42:44,EMERGENCY,0.013991000059832004,304.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+923,13:42:44,EMERGENCY,0.01906700003928563,150.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+924,13:42:44,ESCALATION,2207.8270219999467,287.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+925,13:42:46,ESCALATION,1960.9873449999213,237.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+926,13:42:48,WELLNESS,2006.156207999993,232.0,89.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+927,13:42:50,ESCALATION,1914.8969020000095,223.0,90.0,It'ieves to consult a healthcare professional for personalized advice.
+928,13:42:52,WELLNESS,2055.003838999937,232.0,87.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+929,13:42:54,WELLNESS,1948.676358000057,225.0,87.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+930,13:42:56,WELLNESS,1918.1420600000365,222.0,87.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+931,13:42:58,EMERGENCY,0.08790699985183892,364.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+932,13:42:58,EMERGENCY,0.035112999967168435,676.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+933,13:42:58,EMERGENCY,0.04039400005240168,326.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+934,13:42:58,ESCALATION,1986.1553949999688,233.0,87.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+935,13:43:00,ESCALATION,1911.019817000124,234.0,87.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+936,13:43:02,WELLNESS,1854.4824559999142,225.0,88.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+937,13:43:04,ESCALATION,1908.7834810000004,227.0,87.0,It'ieves to consult a doctor for a thorough check-up.
+938,13:43:06,WELLNESS,1895.6705479999982,226.0,87.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+939,13:43:08,WELLNESS,2323.7010909999753,322.0,88.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+940,13:43:10,WELLNESS,1934.3817110000145,231.0,89.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+941,13:43:12,EMERGENCY,0.036424999962036964,248.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+942,13:43:12,EMERGENCY,0.020778999896720052,233.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+943,13:43:12,EMERGENCY,0.016954000102487043,150.0,89.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+944,13:43:12,ESCALATION,2045.849821000047,241.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+945,13:43:14,ESCALATION,1940.6798980000985,235.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+946,13:43:16,WELLNESS,2025.9750079999321,250.0,88.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+947,13:43:18,ESCALATION,2011.7664609999792,237.0,88.0,It'ieves to consult a healthcare professional for personalized advice.
+948,13:43:20,WELLNESS,2000.7719850000285,234.0,88.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+949,13:43:22,WELLNESS,2038.0342070000097,227.0,89.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+950,13:43:24,WELLNESS,2181.982500999993,274.0,87.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+951,13:43:26,EMERGENCY,0.04832800004805904,243.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+952,13:43:26,EMERGENCY,0.03117200003543985,150.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+953,13:43:26,EMERGENCY,0.027346000024408568,304.0,87.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+954,13:43:26,ESCALATION,2023.3219970000391,246.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+955,13:43:29,ESCALATION,1915.2044689999457,234.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+956,13:43:30,WELLNESS,1922.0620390001386,237.0,88.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+957,13:43:32,ESCALATION,1916.5381299999353,230.0,88.0,It'ieves to consult a healthcare professional for personalized advice.
+958,13:43:34,WELLNESS,1926.8617049999648,223.0,88.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+959,13:43:36,WELLNESS,1913.4867529999156,223.0,88.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+960,13:43:38,WELLNESS,1887.349279000091,223.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+961,13:43:40,EMERGENCY,0.05012099995838071,234.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+962,13:43:40,EMERGENCY,0.014829999827270512,250.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+963,13:43:40,EMERGENCY,0.01879799992821063,150.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+964,13:43:40,ESCALATION,1927.364882999882,224.0,87.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+965,13:43:42,ESCALATION,1922.2834380000222,224.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+966,13:43:44,WELLNESS,2210.8816570000727,284.0,89.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+967,13:43:46,ESCALATION,1921.6207179999856,241.0,88.0,It'ieves to consult a doctor for a thorough check-up.
+968,13:43:48,WELLNESS,1978.6969719998524,252.0,88.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+969,13:43:50,WELLNESS,2066.844377000052,251.0,88.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+970,13:43:52,WELLNESS,1987.647564000099,246.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+971,13:43:54,EMERGENCY,0.045779999936712557,235.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+972,13:43:54,EMERGENCY,0.01720099999147351,150.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+973,13:43:54,EMERGENCY,0.022152000155983842,241.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+974,13:43:54,ESCALATION,2045.2175399998396,237.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+975,13:43:56,ESCALATION,2711.0452280001027,333.0,89.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+976,13:43:59,WELLNESS,2002.4309689999882,241.0,90.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+977,13:44:01,ESCALATION,2002.4344470000415,231.0,87.0,It'ieves to consult a doctor for a thorough check-up.
+978,13:44:03,WELLNESS,1961.838250000028,232.0,87.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+979,13:44:05,WELLNESS,1971.9656319998649,242.0,88.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+980,13:44:07,WELLNESS,2125.4713640000773,256.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+981,13:44:09,EMERGENCY,0.04860499984715716,276.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+982,13:44:09,EMERGENCY,0.01487300005464931,150.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+983,13:44:09,EMERGENCY,0.019724999901882256,241.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+984,13:44:09,ESCALATION,1961.6670689999864,234.0,90.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+985,13:44:11,ESCALATION,1904.4083439998758,223.0,87.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+986,13:44:13,WELLNESS,1971.0968540000522,228.0,88.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+987,13:44:15,ESCALATION,1912.6231889999872,223.0,87.0,It'ieves to consult a doctor for a thorough check-up.
+988,13:44:17,WELLNESS,1934.2805040000712,226.0,86.0,"If your blood pressure is within the normal range, it's likely you're doing well."
+989,13:44:19,WELLNESS,1959.1559639998195,234.0,88.0,Practice mindful breathing for 5 minutes daily to enhance your well-being.
+990,13:44:21,WELLNESS,1908.8373029999275,232.0,88.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
+991,13:44:23,EMERGENCY,0.04049300014230539,266.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+992,13:44:23,EMERGENCY,0.022924000177226844,304.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+993,13:44:23,EMERGENCY,0.018722999811870977,241.0,88.0,CRITICAL: Abnormal vitals detected. Seek medical aid immediately.
+994,13:44:23,ESCALATION,1860.6324560000758,222.0,88.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+995,13:44:25,ESCALATION,2445.6528999999136,330.0,87.0,ESCALATION: I can only provide wellness advice. Please consult a medical professional.
+996,13:44:27,WELLNESS,2549.84556300019,376.0,92.0,Try deep breathing exerieves or a short walk to help lower your stress levels.
+997,13:44:30,ESCALATION,2156.32838800002,289.0,89.0,It'ieves to consult a healthcare professional for personalized advice.
+998,13:44:32,ESCALATION,2097.378173999914,250.0,88.0,"If your blood pressure is high, it's important to consult a doctor."
+999,13:44:34,WELLNESS,2089.876769000057,248.0,89.0,Practice mindfulness meditation for 10 minutes daily to enhance your mental well-being and reduce stress.
+1000,13:44:36,WELLNESS,2108.968177999941,234.0,87.0,Practice mindful breathing for 5 minutes daily to enhance focus and reduce stress.
