@@ -59,3 +59,6 @@ The CSV serves as empirical evidence for the system's "real-time" and "efficienc
             Power	    Simulated power metric based on CPU load.
             CPU_Temp	Real-time hardware temperature monitoring.
             Output	    The final text delivered to the user or safety disclaimer.
+<img width="4241" height="2927" alt="image" src="https://github.com/user-attachments/assets/8ff897f2-fc48-40d4-93a9-0902666a641f" />
+<img width="5560" height="2926" alt="Fig6_Professional_Stability" src="https://github.com/user-attachments/assets/4de0d05c-19fe-4510-8594-5243e6f1447f" />
+<img width="4207" height="2926" alt="Fig7_Professional_Power" src="https://github.com/user-attachments/assets/bb781ad0-b5e4-408f-b3f2-ef94032f2835" />
